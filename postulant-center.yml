@@ -1,7 +1,4 @@
 spring:
-  application:
-    name: postulant-center
-    
   data:
     mongodb:
       database: admin
