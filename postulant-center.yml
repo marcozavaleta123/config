@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: postulant-center
+    
+  data:
+    mongodb:
+      database: admin
+      uri: mongodb://localhost:27017
